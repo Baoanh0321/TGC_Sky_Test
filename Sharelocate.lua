@@ -748,9 +748,5 @@ posits = {
 {map='DuskStart',name='Broken Temple',x=-171.370361328125,y=47.68985366821289,z=-873.1289672851562},
 {map='DuskStart',name='Ice Castle OOB',x=-50.03977966308594,y=4735.7001953125,z=-807.4383544921875},
 {map='DuskStart',name='Social Space',x=-77.0,y=64.0,z=-772.0},
-{map='DuskStart',name='Valley',x=10.0,y=140.0,z=-195.0},
-{map='Dusk',name='Ark',x=150.89471435546875,y=1.2322540283203125,z=46.65181350708008},
-{map='Dusk',name='Graveyard',x=-90.4443359375,y=12.013911247253418,z=158.87918090820312},
-{map='Dusk',name='Meditation',x=-19.560760498046875,y=1.1578712463378906,z=215.51438903808594},
-{map='Dusk',name='Bloom Tree',x=110.4410629272461,y=9.456209182739258,z=128.07015991210938}
+{map='DuskStart',name='Valley',x=10.0,y=140.0,z=-195.0}
 }
