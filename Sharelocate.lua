@@ -744,13 +744,5 @@ posits = {
 {map='Sunset_YetiPark',name='Skater Mountain',x=-166.28414916992188,y=254.64163208007812,z=654.023193359375},
 {map='Sunset_YetiPark',name='Dream Village',x=126.6,y=35.0,z=29.0},
 {map='Sunset_YetiPark',name='Bridge',x=-0.48546457290649414,y=144.6472625732422,z=296.8143310546875},
-{map='Sunset_YetiPark',name='Sunlight Place',x=-358.984619140625,y=257.2220153808594,z=202.68118286132812},
-{map='Night',name='Wreck library',x=-35.5402946472168,y=34.19679641723633,z=-97.76521301269531},
-{map='Night',name='Startlight Desert',x=42.82196807861328,y=36.75535583496094,z=-81.42263793945312},
-{map='Night',name='Meditation Mantas_Entrance',x=-10.061840057373047,y=36.6507682800293,z=-81.45941925048828},
-{map='Night',name='Meditation 2nd Floor',x=0.0056471084244549274,y=82.3597412109375,z=-22.333717346191406},
-{map='Night',name='Bloom Tree',x=23.269287109375,y=41.29167938232422,z=-13.190152168273926},
-{map='Night',name='2nd floor',x=11.553918838500977,y=80.62894439697266,z=14.284697532653809},
-{map='Night',name='3rd floor',x=27.935970306396484,y=153.792236328125,z=-39.151798248291016},
-{map='Night',name='4th floor',x=31.0,y=212.0,z=-40.0}
+{map='Sunset_YetiPark',name='Sunlight Place',x=-358.984619140625,y=257.2220153808594,z=202.68118286132812}
 }
