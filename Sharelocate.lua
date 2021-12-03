@@ -767,8 +767,6 @@ posits = {
 {map='DuskMid',name='Crab Field',x=54.159915924072266,y=111.84867095947266,z=-264.114990234375},
 {map='DuskMid',name='Graveyard',x=41.0,y=100.0,z=-41.0},
 {map='DuskMid',name='Meditation'x=-270.49127197265625,y=105.64724731445312,z=-234.61509704589844},
-{map='DuskEnd',name='Vault of Knowledge',x=0.0,y=208.0,z=-67.0},
-{map='DuskEnd',name='Elders Room',x=-417.28424072265625,y=12.288487434387207,z=410.8535461425781},
 {map='DuskOasis',name='Ark ship',x=141.16297912597656,y=120.97766876220703,z=351.2036437988281},
 {map='DuskOasis',name='Meditation',x=164.63189697265625,y=116.14188385009766,z=373.49554443359375},
 {map='DuskOasis',name='Rainbow Candle',x=183.1502227783203,y=115.60414123535156,z=302.9269714355469},
