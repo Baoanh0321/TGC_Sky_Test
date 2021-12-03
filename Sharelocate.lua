@@ -744,5 +744,9 @@ posits = {
 {map='Sunset_YetiPark',name='Skater Mountain',x=-166.28414916992188,y=254.64163208007812,z=654.023193359375},
 {map='Sunset_YetiPark',name='Dream Village',x=126.6,y=35.0,z=29.0},
 {map='Sunset_YetiPark',name='Bridge',x=-0.48546457290649414,y=144.6472625732422,z=296.8143310546875},
-{map='Sunset_YetiPark',name='Sunlight Place',x=-358.984619140625,y=257.2220153808594,z=202.68118286132812}
+{map='Sunset_YetiPark',name='Sunlight Place',x=-358.984619140625,y=257.2220153808594,z=202.68118286132812},
+{map='DuskStart',name='Broken Temple',x=-171.370361328125,y=47.68985366821289,z=-873.1289672851562},
+{map='DuskStart',name='Ice Castle OOB',x=-50.03977966308594,y=4735.7001953125,z=-807.4383544921875},
+{map='DuskStart',name='Social Space',x=-77.0,y=64.0,z=-772.0},
+{map='DuskStart',name='Valley',x=10.0,y=140.0,z=-195.0}
 }
