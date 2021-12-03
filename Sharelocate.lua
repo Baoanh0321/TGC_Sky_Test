@@ -764,7 +764,6 @@ posits = {
 {map='Dusk_CrabField',name='Red Ball',x=-209.82058715820312,y=8.377907752990723,z=421.9652099609375},
 {map='Dusk_CrabField',name='Wasteland moon OOB',x=-338.6526184082031,y=185.0042266845703,z=400.361328125},
 {map='DuskMid',name='Temple',x=-284.5697326660156,y=92.47919464111328,z=-400.2809753417969},
-{map='DuskMid',name='Meditation'x=-270.49127197265625,y=105.64724731445312,z=-234.61509704589844},
 {map='DuskEnd',name='Vault of Knowledge',x=0.0,y=208.0,z=-67.0},
 {map='DuskEnd',name='Elders Room',x=-417.28424072265625,y=12.288487434387207,z=410.8535461425781},
 {map='DuskOasis',name='Ark ship',x=141.16297912597656,y=120.97766876220703,z=351.2036437988281},
